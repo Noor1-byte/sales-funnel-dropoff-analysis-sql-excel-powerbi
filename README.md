@@ -61,7 +61,7 @@ Original dataset from [Kaggle - Sales Funnel Events](#) *([Add link if applicabl
 ---
 
 ## 🔗 Let’s Connect
-Feel free to connect on [LinkedIn](https://www.linkedin.com/in/yourprofile/) or message me for collaboration!
+Feel free to connect on [LinkedIn](www.linkedin.com/in/noor-jahan1) or message me for collaboration!
 
 
 
